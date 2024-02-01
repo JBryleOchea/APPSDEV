@@ -1,0 +1,15 @@
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\bin\Debug\net8.0\ArithmeticC#.exe
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\bin\Debug\net8.0\ArithmeticC#.deps.json
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\bin\Debug\net8.0\ArithmeticC#.runtimeconfig.json
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\bin\Debug\net8.0\ArithmeticC#.dll
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\bin\Debug\net8.0\ArithmeticC#.pdb
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.AssemblyInfoInputs.cache
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.AssemblyInfo.cs
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.csproj.CoreCompileInputs.cache
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.sourcelink.json
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.dll
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\refint\ArithmeticC#.dll
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.pdb
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ArithmeticC#.genruntimeconfig.cache
+D:\APPSDEV\APPSDEV\ArithmeticC#\ArithmeticC#\obj\Debug\net8.0\ref\ArithmeticC#.dll
