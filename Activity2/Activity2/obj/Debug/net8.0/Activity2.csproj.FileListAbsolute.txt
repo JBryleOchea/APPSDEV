@@ -1,0 +1,15 @@
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\bin\Debug\net8.0\Activity2.exe
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\bin\Debug\net8.0\Activity2.deps.json
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\bin\Debug\net8.0\Activity2.runtimeconfig.json
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\bin\Debug\net8.0\Activity2.dll
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\bin\Debug\net8.0\Activity2.pdb
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfoInputs.cache
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfo.cs
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.csproj.CoreCompileInputs.cache
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.sourcelink.json
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.dll
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\refint\Activity2.dll
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.pdb
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\Activity2.genruntimeconfig.cache
+D:\BRYLEOCHEA - 2D\APPSDEV\Activity2\Activity2\obj\Debug\net8.0\ref\Activity2.dll
