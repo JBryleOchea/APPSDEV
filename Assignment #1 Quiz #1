@@ -1,0 +1,92 @@
+using System;
+using System.Collections.Generic;
+
+namespace PersonWeightApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Person> persons = new List<Person>();
+
+            Console.WriteLine("Welcome to the Person Weight Tracker!");
+
+            bool addingPersons = true;
+            while (addingPersons)
+            {
+                Console.WriteLine("\nEnter person's name:");
+                string name = Console.ReadLine();
+
+                int weight = AskForWeight(name);
+
+                Person person = new Person(name, weight);
+                persons.Add(person);
+
+                Console.WriteLine("\nDo you want to add another person? (yes/no)");
+                string continueInput = Console.ReadLine().ToLower();
+
+                if (continueInput != "yes")
+                {
+                    addingPersons = false;
+                }
+            }
+
+            Console.WriteLine("\nPersons added:");
+            foreach (var person in persons)
+            {
+                Console.WriteLine($"Name: {person.Name}, Weight: {person.Weight}");
+            }
+
+            int totalWeight = CalculateTotalWeight(persons);
+            Console.WriteLine($"\nTotal weight of all persons: {totalWeight}");
+
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+        }
+
+        static int AskForWeight(string name)
+        {
+            bool validWeight = false;
+            int weight = 0;
+
+            while (!validWeight)
+            {
+                Console.WriteLine($"Enter {name}'s weight:");
+                string weightInput = Console.ReadLine();
+
+                if (int.TryParse(weightInput, out weight) && weight > 0)
+                {
+                    validWeight = true;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid weight. Please enter a valid positive integer.");
+                }
+            }
+
+            return weight;
+        }
+
+        static int CalculateTotalWeight(List<Person> persons)
+        {
+            int totalWeight = 0;
+            foreach (var person in persons)
+            {
+                totalWeight += person.Weight;
+            }
+            return totalWeight;
+        }
+    }
+
+    class Person
+    {
+        public string Name { get; }
+        public int Weight { get; }
+
+        public Person(string name, int weight)
+        {
+            Name = name;
+            Weight = weight;
+        }
+    }
+}
